@@ -7,3 +7,4 @@ sentence-transformers
 chromadb
 torch
 camel-tools
+git+https://github.com/Rashidbm/pysarf.git
