@@ -5,6 +5,7 @@ matplotlib
 seaborn
 sentence-transformers
 chromadb
+protobuf==3.20.3
 torch
 camel-tools
 git+https://github.com/Rashidbm/pysarf.git
